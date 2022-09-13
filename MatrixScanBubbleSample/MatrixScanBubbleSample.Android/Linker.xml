@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<linker>
+	<assembly fullname="MatrixScanBubbleSample">
+		<type fullname="MatrixScanBubbleSample.ViewModels.MainPageViewModel" />
+		<type fullname="MatrixScanBubbleSample.Services.MessageService" />
+	</assembly>
+</linker>

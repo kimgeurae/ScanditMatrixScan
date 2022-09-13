@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZ82BCSGp0caq2hVNPze1VYQeOWz4Zkf5Qjnl/NF5DQ7gUfCNsL9D+SawE/hxB4UcfYi2+5J2OpgvIGqg06Zzg==",
+  "success": true,
+  "projectFilePath": "C:\\_Dev\\Projects\\dotnet\\MatrixScanBubbleSample\\MatrixScanBubbleSample\\MatrixScanBubbleSample\\MatrixScanBubbleSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\scandit.datacapture.barcode.xamarin.forms\\6.14.0\\scandit.datacapture.barcode.xamarin.forms.6.14.0.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\scandit.datacapture.core.xamarin.forms\\6.14.0\\scandit.datacapture.core.xamarin.forms.6.14.0.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
